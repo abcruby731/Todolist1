@@ -1,0 +1,8 @@
+* PLAN
+** todo sql
+*** TODO [#A] add schema to hello/core.clj
+    DEADLINE: <2015-08-25 Tue>
+*** TODO [#C] create db for works & users, import date
+    DEADLINE: <2015-08-25 Tue>
+*** TODO [#B] add status to hello/core.clj
+    DEADLINE: <2015-08-25 Tue>
