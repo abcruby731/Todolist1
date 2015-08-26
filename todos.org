@@ -5,4 +5,6 @@
 *** TODO [#C] create db for works & users, import date
     DEADLINE: <2015-08-25 Tue>
 *** TODO [#B] add status to hello/core.clj
-    DEADLINE: <2015-08-25 Tue>
+    DEADLINE: <2015-08-2
+*** TODO [#A] 图片上传
+    DEADLINE: <2015-08-26 Wed>
