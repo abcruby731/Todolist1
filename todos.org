@@ -1,10 +1,12 @@
 * PLAN
 ** todo sql
-*** TODO [#A] add schema to hello/core.clj
-    DEADLINE: <2015-08-25 Tue>
-*** TODO [#C] create db for works & users, import date
-    DEADLINE: <2015-08-25 Tue>
-*** TODO [#B] add status to hello/core.clj
-    DEADLINE: <2015-08-2
+*** DONE [#A] add schema to hello/core.clj
+    CLOSED: [2015-08-27 Thu 10:27] DEADLINE: <2015-08-25 Tue>
+*** DONE [#C] create db for works & users, import date
+    CLOSED: [2015-08-27 Thu 10:27] DEADLINE: <2015-08-25 Tue>
+*** DONE [#B] add status to hello/core.clj
+    CLOSED: [2015-08-27 Thu 10:27]
 *** TODO [#A] 图片上传
-    DEADLINE: <2015-08-26 Wed>
+    DEADLINE: <2015-08-30 Sun>
+*** TODO [#B] 上传参数进行数据校验(schema)
+    DEADLINE: <2015-08-30 Sun>
