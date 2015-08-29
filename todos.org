@@ -10,3 +10,5 @@
     DEADLINE: <2015-08-30 Sun>
 *** TODO [#B] 上传参数进行数据校验(schema)
     DEADLINE: <2015-08-30 Sun>
+*** TODO [#C] 上传时写入数据库，添加数据库关联
+    DEADLINE: <2015-08-30 Sun>
