@@ -12,3 +12,7 @@
     DEADLINE: <2015-08-30 Sun>
 *** TODO [#C] 上传时写入数据库，添加数据库关联
     DEADLINE: <2015-08-30 Sun>
+*** TODO [#A] kafkaA
+    DEADLINE: <2015-09-15 Tue>
+*** TODO [#B] hoolayapi.server
+    DEADLINE: <2015-09-15 Tue>
